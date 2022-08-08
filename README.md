@@ -1,0 +1,2 @@
+# Project-How-many-bicycles-will-be-rented-during-the-next-month-
+In this project, we will discover unique data which is bicycle rental data in Washington DC, the capital of the United States of America. This project aims to delve into the steps of data analysis. The goal of the project is to first understand the data and then try to model the data by predicting how many bicycles will be rented over the next month using data from previous years. The data is completely contained in the Kallel site.
